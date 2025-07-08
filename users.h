@@ -1,8 +1,3 @@
-/*
-Assigned by:
-Or Goraly #211571922
-*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #ifndef USERS_H
 #define USERS_H
